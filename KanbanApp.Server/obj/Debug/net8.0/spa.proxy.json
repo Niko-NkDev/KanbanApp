@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:50303",
+"RedirectUrl": "",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "E:\\proyectos\\KanbanApp\\KanbanApp.Server\\..\\kanbanapp.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
